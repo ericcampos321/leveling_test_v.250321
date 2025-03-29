@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/logs/
+**/*.log
+
+# Spring Boot specific
+*.war
+*.jar
+
+# IDEs and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Optional: downloads e zip gerado pelo scraper
+downloads/
+anexos.zip
