@@ -26,5 +26,5 @@ mvn spring-boot:run
 - Acessa o site da ANS
 - Faz download dos arquivos PDF do Anexo I e II
 - Salva em `downloads/`
-- Compacta em `anexos.zip`
+- Compacta em `zips/name.zip`
 

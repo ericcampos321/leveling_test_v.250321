@@ -41,7 +41,7 @@ public class ScrapingService {
                 }
             }
 
-            FileUtil.gerarZip(arquivos, new File("anexos.zip"));
+            FileUtil.gerarZip(arquivos, new File("zips/Anexos_Extraidos.zip"));
             logger.info("Scraping e compactação concluídos!");
 
         } catch (IOException e) {
