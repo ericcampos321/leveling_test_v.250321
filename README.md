@@ -1,5 +1,5 @@
 
-# Spring Boot - Web Scraper (Teste 1)
+# Spring Boot - Web Scraper
 
 ## Como rodar
 
