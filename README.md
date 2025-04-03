@@ -1,5 +1,5 @@
 
-# Spring Boot - Web Scraper
+# 🚀 Nivelamento Técnico - Java - Web Scraper & Transformação CSV
 
 ## 📄 Descrição
 
@@ -114,5 +114,3 @@ POST http://localhost:8080/scraper/transform
 - PDFs baixados → `downloads/`
 - Arquivo ZIP → `zips/`
 - Arquivo CSV → `Anexos_Extraidos.csv` na raiz do projeto
-
----
